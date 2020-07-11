@@ -1,0 +1,38 @@
+.top-container{
+
+	display: flex;
+	justify-content: center;
+	padding-top: 30px;
+}
+.container{
+	display: flex;
+	flex-direction:column; 
+	align-items: center;
+	background-color: #e1e1e7;
+	width: 95%;
+
+}
+p{
+	
+}
+.border{
+	border-style: dotted;
+	border-color: grey;
+      border-width: 1px;
+margin: 0px 15px 0px 20px;
+text-align: center;
+margin-top: 20px;
+}
+.shade{
+	background-color:#cacad0;
+	margin-right: 10px;
+	margin-left: 10px;
+	height: 30px;
+	line-height: 30px;
+}
+img{
+	border-radius: 50%;
+}
+#nutshell{
+	font-size: 40px
+}
